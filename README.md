@@ -1,7 +1,5 @@
 # stm32-continuous-data-transmission
 
-![](images/UI.png
-
 ### Context
 This project was done during my BSc 3rd for a small project. This project consisted of a free design in which was required to program a STM32 device.
 
