@@ -27,4 +27,4 @@ This block is used to facilitate the UI management by using predefined functions
 #### MPU6050
 This block is used to mesure and send the data acquired by the integrated Gyroscope
 
-![](images/GYScreen.png)
+![](images/screen.png)
