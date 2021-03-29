@@ -12,19 +12,19 @@ The system also shows the acquired info in an integrated screen.
 
 As C language does not support OOP, the structure followed for this implementation is based on files.
 
-Visual_Interface
+Visual_Interface:
 This block is used to manage the UI visualizations and show them in the integrated screen(SSD1306).
 
-EXTI Manager
+EXTI Manager:
 This block is used to manage the external interruptions used to force the states transitions.
 
-HC-05
+HC-05:
 This block is used to transmit the data to an external device via bluetooth.
 
-SSD1306
+SSD1306:
 This block is used to facilitate the UI management by using predefined functions.
 
-MPU6050
+MPU6050:
 This block is used to mesure and send the data acquired by the integrated Gyroscope
 
 ![](images/screen.PNG)
