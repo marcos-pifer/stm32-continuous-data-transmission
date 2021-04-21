@@ -8,7 +8,7 @@ The purpose is to create a system which sends the information acquired by a sens
 The system also shows the acquired info in an integrated screen.
 
 
-###Project architecture
+### Project architecture
 
 As C language does not support OOP, the structure followed for this implementation is based on files.
 
